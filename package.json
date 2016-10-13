@@ -1,5 +1,5 @@
 {
-  "name": "concrete",
+  "name": "concretejs",
   "version": "0.1.0",
   "devDependencies": {
     "chai": "^3.4.1",
